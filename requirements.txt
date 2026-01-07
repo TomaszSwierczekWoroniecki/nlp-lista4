@@ -1,0 +1,13 @@
+torch
+transformers
+pyvene
+nnsight
+datasets
+hf_xet  # For better model downloads
+pandas
+numpy
+tqdm
+plotnine
+matplotlib
+accelerate
+notebook
